@@ -58,6 +58,10 @@ Connecting to remote data sources is as easy as pasting in a link to a JSON feed
 
 The data point will be assigned a variable name that you can refer to across your sheets. The data point will be periodically fetched for you in the background at a frequency you specify.
 
+### Detailed Documentation
+
+You can find more detailed documentation for Soulver X [here](https://documentation.soulver.app/experimental-features/x).
+
 ## Supporting this project
 
 We invented the modern notepad calculator (with an answer column alongside a text editor) in 2005, and we envision more exciting advancements arising from this research too.
