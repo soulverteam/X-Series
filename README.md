@@ -10,9 +10,9 @@ Our mission:
 
 ## Soulver X1
 
-<img src="Images/Introducing%20X1.png" alt="Introducing Soulver X1" width="800"/>
-
 Our tentative first release in this work is Soulver X1.
+
+<img src="Images/Introducing%20X1.png" alt="Introducing Soulver X1" width="800"/>
 
 It includes implementations of our top three most requested features:
 
@@ -63,6 +63,6 @@ The data point will be assigned a variable name that you can refer to across you
 We invented the modern notepad calculator (with an answer column alongside a text editor) in 2005, and we envision more exciting advancements arising from this research too.
 
 - If you're a long-time user of Soulver (or a mega-fan), and think this research is worthwhile, consider becoming a [one-time or monthly GitHub](https://github.com/sponsors/soulverteam) or Patreon sponsor
-- All sponsors (of any amount) will get access to X1 via a private repository
-- Monthly sponsors will also get access to our latest X series prototype (X2, X3, etc), as well as a copy of [Soulver Mini](http://soulver.app/mini/) for Mac, and pre-release builds of Soulver 4 with 40+ new features
+- All sponsors (monthly or one-time) will receive access to Soulver X1
+- Monthly sponsors will also get access to the latest X series release (X2, X3, etc), as well as a copy of [Soulver Mini](http://soulver.app/mini/) for Mac, and pre-release builds of Soulver 4
 - With your support, our (very) small team will dedicate more resources to this kind of advanced notepad calculator research
