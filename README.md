@@ -3,11 +3,14 @@
 We are considering embarking on a multi-year R&D project for Soulver.
 
 Our mission:
+
 -  To explore advanced feature ideas for Soulver
 -  To seek out new forms and workflows
 -  To boldly go where no notepad calculator has gone before 🖖
 
 ## Soulver X1
+
+<img src="Images/Introducing%20X1.png" alt="Introducing Soulver X1" width="800"/>
 
 Our tentative first release in this work is Soulver X1.
 
@@ -17,16 +20,22 @@ It includes implementations of our top three most requested features:
 -  Sharing variables across sheets (via the new 'header')
 -  Connecting to Web APIs (with a paste and a couple of clicks)
 
-Download it (for free) [here](https://soulver.app/download).  
-It requires macOS 14+.
-
-Documentation is available [here](https://app.gitbook.com/o/-Lf0gSV_fLGURMBydmTH/s/-Lf0gWBnuB8M1SitWhyk/~/changes/210/experimental-features/soulver-x-series)
-
 ## Experimental features in X1
+
+### Tabs & the header
+
+Documents have multiple tabs in Soulver X1.
+
+<img src="Images/Tabs%20&%20header.png" alt="Tabs & header" width="800"/>
+
+A dedicated "header" lets you define variables, units, and functions that are available across all of them. 
+
+You use the header to define both "equivalence units" (defined in terms of an existing unit), and (new in X1) generic units that are entirely new unit types.
 
 ### Declare custom functions
 
-You can use almost any syntax you like for custom functions: 
+You can use almost any syntax you like for custom functions:
+
 -  C-style: `doSomething(123)`
 -  Swift-style: `doSomething(with: 123)`
 -  Or even natural language: `do something with 123`
@@ -41,16 +50,6 @@ Once a function has been defined, you can use it with different parameters (that
 
 <img src="Images/Custom%20function%20in%20use.png" alt="Custom Function In Use" width="800"/>
 
-### Tabs & the header
-
-Documents have multiple tabs in Soulver X1.
-
-<img src="Images/Tabs%20&%20header.png" alt="Tabs & header" width="800"/>
-
-A dedicated "header" lets you define variables, units, and functions that are available across all of them. 
-
-You use the header to define both "equivalence units" (defined in terms of an existing unit), and (new in X1) generic units that are entirely new unit types.
-
 ### Web values
 
 Connecting to remote data sources is as easy as pasting in a link to a JSON feed and then clicking on your desired data point.
@@ -61,10 +60,9 @@ The data point will be assigned a variable name that you can refer to across you
 
 ## Supporting this project
 
-We invented the modern notepad calculator (with the answer column) back in 2005, and we envision more industry-changing breakthroughs arising from this research too.
+We invented the modern notepad calculator (with an answer column alongside a text editor) in 2005, and we envision more exciting advancements arising from this research too.
 
-- If you're a long-time user of Soulver (or a mega-fan), and think this development direction is worthwhile, consider becoming a GitHub sponsor
-
-- With your support, our (very) small team will dedicate its resources to this kind of advanced notepad calculator research
-
-- As a sponsor, you'll also get access to a private repository with the latest X Series prototypes of our work (X2, X3, and so forth)
+- If you're a long-time user of Soulver (or a mega-fan), and think this research is worthwhile, consider becoming a [one-time or monthly GitHub](https://github.com/sponsors/soulverteam) or Patreon sponsor
+- All sponsors (of any amount) will get access to X1 via a private repository
+- Monthly sponsors will also get access to our latest X series prototype (X2, X3, etc), as well as a copy of [Soulver Mini](http://soulver.app/mini/) for Mac, and pre-release builds of Soulver 4 with 40+ new features
+- With your support, our (very) small team will dedicate more resources to this kind of advanced notepad calculator research
