@@ -66,7 +66,7 @@ You can find more detailed documentation for Soulver X [here](https://documentat
 
 We invented the modern notepad calculator (with an answer column alongside a text editor) in 2005, and we envision more exciting advancements arising from this research too.
 
-- If you're a long-time user of Soulver (or a mega-fan), and think this research is worthwhile, consider becoming a [one-time or monthly GitHub](https://github.com/sponsors/soulverteam) or [Patreon](https://www.patreon.com/soulver?utm_medium=unknown&utm_source=github) sponsor
+- If you're a long-time user of Soulver (or a mega-fan), and think this research is worthwhile, consider becoming a [one-time or monthly GitHub](https://github.com/sponsors/soulverteam) sponsor
 - All sponsors (monthly or one-time) will receive access to Soulver X1
 - Monthly sponsors will also get access to the latest X series release (X2, X3, etc), as well as a copy of [Soulver Mini](http://soulver.app/mini/) for Mac, and pre-release builds of Soulver 4
 - With your support, our (very) small team will dedicate more resources to this kind of advanced notepad calculator research
